@@ -1,2 +1,1 @@
-# DonutPython
-do you like donut ??:)
+remember to do pip install pygame ;)
